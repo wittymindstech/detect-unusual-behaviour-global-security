@@ -3,3 +3,5 @@ detect unusual behaviour via camera video or image and send notification to fron
 
 Also detect unusual behavior via live and real time voice recording.
 
+![](detect-unusual-behaviour.png)
+
